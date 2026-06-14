@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "Admin",
+        "email": "admin@nexagear.test",
+        "password": "$2y$10$zgqDmGra4eRzNStiEwRVzeryqlVt1T2ZlWTR0yH/mxt71x9KlkQhe",
+        "role": "admin",
+        "created_at": "2026-06-13 20:07:39"
+    },
+    {
+        "id": 2,
+        "name": "Demo Player",
+        "email": "player@nexagear.test",
+        "password": "$2y$10$WeGFX.dxxIZ3C6uX440aA.n7s0I3TfVA2APdQ3N7rD5SKs5uSr832",
+        "role": "customer",
+        "created_at": "2026-06-13 20:07:39"
+    }
+]

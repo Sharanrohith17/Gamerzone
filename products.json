@@ -1,0 +1,195 @@
+[
+    {
+        "id": 1,
+        "name": "NexaGear TitanX Pro",
+        "slug": "nexagear-titanx-pro",
+        "category": "Gamepads",
+        "price": 69.99,
+        "stock": 22,
+        "accent": "#ef4444",
+        "image_type": "gamepad",
+        "colors": [
+            "#f8fafc",
+            "#222222",
+            "#8a8b7a"
+        ],
+        "description": "A tournament-ready wireless controller with textured grips, hall-effect triggers, and low-latency play across PC and console.",
+        "features": [
+            "Hall-effect triggers",
+            "Dual-mode wireless",
+            "Textured pro grip",
+            "18-hour battery"
+        ],
+        "rating": 4.8,
+        "badge": "Best Seller"
+    },
+    {
+        "id": 2,
+        "name": "NexaGear PhantomEdge",
+        "slug": "nexagear-phantomedge",
+        "category": "Keyboards",
+        "price": 59.99,
+        "stock": 18,
+        "accent": "#60a5fa",
+        "image_type": "keyboard",
+        "colors": [
+            "#d9e7f7",
+            "#2f343a",
+            "#9a967f"
+        ],
+        "description": "Compact mechanical keyboard with hot-swap switches, tuned stabilizers, and per-key RGB control.",
+        "features": [
+            "Hot-swap switches",
+            "Per-key RGB",
+            "Detachable USB-C",
+            "PBT keycaps"
+        ],
+        "rating": 4.7,
+        "badge": "RGB Ready"
+    },
+    {
+        "id": 3,
+        "name": "NexaGear HyperStrike X",
+        "slug": "nexagear-hyperstrike-x",
+        "category": "Gaming Mouse",
+        "price": 79.99,
+        "stock": 38,
+        "accent": "#facc15",
+        "image_type": "mouse",
+        "colors": [
+            "#f8fafc",
+            "#2a2a2a",
+            "#7f8270"
+        ],
+        "description": "Featherweight gaming mouse with a 26K sensor, crisp switches, and a flexible paracord-style cable.",
+        "features": [
+            "26K optical sensor",
+            "Ultra-light shell",
+            "6 programmable buttons",
+            "PTFE skates"
+        ],
+        "rating": 4.9,
+        "badge": "Pro Pick"
+    },
+    {
+        "id": 4,
+        "name": "NexaGear ShadowGrip Elite",
+        "slug": "nexagear-shadowgrip-elite",
+        "category": "Headphones",
+        "price": 54.99,
+        "stock": 38,
+        "accent": "#22d3ee",
+        "image_type": "headphones",
+        "colors": [
+            "#22d3ee",
+            "#ef4444",
+            "#f5f5dc",
+            "#6b7280"
+        ],
+        "description": "Closed-back gaming headset with spatial audio tuning, a clear boom mic, and memory foam comfort.",
+        "features": [
+            "Spatial audio tuning",
+            "Noise-reducing boom mic",
+            "Memory foam cushions",
+            "Steel headband"
+        ],
+        "rating": 4.6,
+        "badge": "Comfort"
+    },
+    {
+        "id": 5,
+        "name": "NexaGear ApexVortex",
+        "slug": "nexagear-apexvortex",
+        "category": "Gamepads",
+        "price": 89.99,
+        "stock": 16,
+        "accent": "#a3e635",
+        "image_type": "gamepad",
+        "colors": [
+            "#f8fafc",
+            "#3a3a3a",
+            "#a3a078"
+        ],
+        "description": "Premium asymmetric controller with remappable rear buttons and adjustable trigger stops.",
+        "features": [
+            "Rear macro buttons",
+            "Trigger stops",
+            "USB-C fast charge",
+            "Custom profiles"
+        ],
+        "rating": 4.8,
+        "badge": "New"
+    },
+    {
+        "id": 6,
+        "name": "NexaGear ThunderPulse",
+        "slug": "nexagear-thunderpulse",
+        "category": "Headphones",
+        "price": 64.99,
+        "stock": 24,
+        "accent": "#c084fc",
+        "image_type": "headphones",
+        "colors": [
+            "#f8fafc",
+            "#3d3d3d",
+            "#aaa37a"
+        ],
+        "description": "Low-latency wireless headset built for late-night ranked sessions and long co-op raids.",
+        "features": [
+            "2.4GHz wireless",
+            "40-hour battery",
+            "Flip-to-mute mic",
+            "Breathable cushions"
+        ],
+        "rating": 4.5,
+        "badge": "Wireless"
+    },
+    {
+        "id": 7,
+        "name": "NexaGear VelocityCore",
+        "slug": "nexagear-velocitycore",
+        "category": "Gaming Mouse",
+        "price": 74.99,
+        "stock": 30,
+        "accent": "#fb7185",
+        "image_type": "mouse",
+        "colors": [
+            "#1e1e1e",
+            "#f8fafc",
+            "#888872"
+        ],
+        "description": "Ambidextrous mouse with fast optical clicks, onboard memory, and balanced weight distribution.",
+        "features": [
+            "Optical switches",
+            "Onboard memory",
+            "Ambidextrous shell",
+            "8000Hz polling support"
+        ],
+        "rating": 4.7,
+        "badge": "Fast"
+    },
+    {
+        "id": 8,
+        "name": "NexaGear AlphaFusion",
+        "slug": "nexagear-alphafusion",
+        "category": "Keyboards",
+        "price": 99.99,
+        "stock": 12,
+        "accent": "#fb923c",
+        "image_type": "keyboard",
+        "colors": [
+            "#fb923c",
+            "#f8fafc",
+            "#2f343a"
+        ],
+        "description": "Full-size command deck with media controls, sound-dampened case foam, and bright RGB layers.",
+        "features": [
+            "Sound-dampened case",
+            "Dedicated media wheel",
+            "Macro layers",
+            "South-facing RGB"
+        ],
+        "rating": 4.9,
+        "badge": "Premium"
+    }
+]
